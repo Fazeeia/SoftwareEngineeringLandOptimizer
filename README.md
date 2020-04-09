@@ -1,0 +1,2 @@
+# SoftwareEngineeringLandOptimizer
+This project aims to explore the optimal layout of urban development whilst considering accessibility, connectivity, density, smart growth and sprawl. Our aim is to find a solution for urban sprawl within the constraints of the building codes and standards in Trinidad and Tobago, in cases where these ideas cannot be collated we will seek solutions in new emerging technologies. Essentially we intend for our software to output a best case scenario with both statistical and design information.
